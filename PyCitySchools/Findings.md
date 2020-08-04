@@ -1,0 +1,2 @@
+Charter schools spend less per student but they have higher average grades and a greater percantage of students passing both subjects. They also seem to have less students than the district schools do.
+District schools spend the most per student but barely half of their students are passing both subjects.
